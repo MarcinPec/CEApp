@@ -1,0 +1,8 @@
+Hello!
+I'm Marcin and I'm from Poland.
+I'm studying Computer Science on
+Lower Silesia University in Wroclaw, Poland.
+
+This application is reworked version
+of my fist programing project originally written
+in Python and classic Tkinter.
