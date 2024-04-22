@@ -4,7 +4,7 @@
 
 # CEApp - Cash Exchange Application
 
-It is a desktop application project that uses Python logic combined with an interactive graphical interface created using the pre-installed Tkinter library with Custom Tkinter library. The intended purpose of this application is to convert amounts between currencies.
+It is a desktop application project that uses Python logic combined with an interactive graphical interface created using the pre-installed Tkinter and Custom Tkinter libraries. The intended purpose of this application is to convert amounts between currencies.
 
 
 ## Appendix
@@ -26,7 +26,7 @@ CURRENCY CONVERTER module - consists of three functions:
 
 - converter of amounts to the selected currency - based on a function that uses 3 variables received from the user - amount, input currency and output currency, and returns the calculated value along with the target currency. 
 
-- search engine for archive rates - based on the function of two variables downloaded from the user - date in the [yyyy-mm-dd] format and the target currency. This function returns the exchange rate for a given day of the target currency in PLN.
+- search engine for archive rates - based on the function of two variables downloaded from the user - date in the [yyyy-mm-dd] format and the target currency. This function returns the exchange rate for a given day of the target currency.
 
 - gold value calculator in diffrent currencies - based on the function of one variable - gold mass in grams and target currency both collected from the user
 
